@@ -1,0 +1,11 @@
+Pillow
+coremltools
+numpy
+onnx
+onnx-simplifier
+opencv-python
+pycocotools
+pyyaml
+tensorflow
+torch
+tqdm
